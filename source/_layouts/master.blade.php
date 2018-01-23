@@ -19,36 +19,23 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
 
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="{{ $page->baseUrl }}/css/main.css" />
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-49622799-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-49622799-1');
+</script>
+
 </head>
 
 <body>
 
-  <div class="container">
-    <div class="row">
-      <div class="col-md-4">
-
-        <h1>Hi</h1>
-        <p>I'm Johannes Berdin, an entrepreneur, digital native and software engineer from <a href="https://www.saarlouis.de">Saarlouis</a>, Germany.</p>
-
-        <h3>Get in touch</h3>
-
-        <ul class="list-inline social-list">
-          <li><a href="https://www.linkedin.com/in/johannesberdin/"><i class="fa fa-linkedin"></i></a></li>
-          <li><a href="https://github.com/johannesberdin"><i class="fa fa-github"></i></a></li>
-          <li><a href="https://www.xing.com/profile/Johannes_Berdin"><i class="fa fa-xing"></i></a></li>
-          <li><a href="https://www.instagram.com/johannesberdin/"><i class="fa fa-instagram"></i></a></li>
-        </ul>
-
-        <h3>Recent posts</h3>
-
-        <ul class="article-list">
-          <li><span class="article-date article-date-sm">January 20, 2018</span><br/>
-            <a href="2018-01-20-year-of-projects/index.html" class="article-link">The year of projects</a>
-          </li>
-        </ul>
-      </div>
-    </div>
+  @yield('body')
 
 </body>
 
