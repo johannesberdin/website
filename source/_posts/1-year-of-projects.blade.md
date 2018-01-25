@@ -22,7 +22,7 @@ This is a premiere, my first article ever! In the last few days I have thought a
 
 You probably never heard about me so let me introduce myself. My name is Johannes Berdin, I'm 29 years old and I'm living in a truly beautiful part of Germany, called [Saarland](#fn). I'm project lead and software developer at [Eyeled GmbH](#fn), a software company specialized in mobile IT solutions for industry-leading businesses and medium-sized enterprises. I'm also founder of the apptimists a small app company doing business as [StauMobil](#fn), a free app for iOS and Android providing traffic information for Germany. I studied Computer Science and Mathematics at Universität des Saarlandes and at time of writing I'm applicant of [Wirtschaftsjunioren Saarland](#fn).
 
-I like to explain - you probably noticed that by the six footnotes within the first paragraph. I think it's because my dad is the principal of an advanced highschool and I also started studying teaching profession but that's another story.
+I like to explain - you probably noticed that by the five footnotes within the first paragraph. I think it's because my dad is the principal of an advanced highschool and I also started studying teaching profession but that's another story.
 
 In this article I want to share some of my New Year's resolutions. Some are just thoughts like "It would be cool to have that"-stuff. For some I'm looking for help or better I defintely need help to get them running. I guess some will be just random and a lot will be in tech space.
 
