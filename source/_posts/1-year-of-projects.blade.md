@@ -61,7 +61,7 @@ The app will be released in the next days so be surprised what we did!
 
 ### Picstabox
 
-At least [1.2 trillion photos](#fn) were taken in 2017 that are 22,916 moments are captured every second. I think this is a amazing number.
+At least [1.2 trillion photos](#fn) were taken in 2017 that are 22,916 moments captured every second. I think this is a amazing number.
 My brother Peter, our friend Pascal and I built a photo box to capture moments at parties, personal and business events. We finished the hardware and software setup in the middle of last year and successfully passed stress tests like 24h use, low-light environment and unclimated rooms.
 We are now developing an online booking system where people easily can rent the box.
 If you want to collect moments of your next event you can get a promotional discount until March by mailing me.
