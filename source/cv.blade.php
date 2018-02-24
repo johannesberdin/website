@@ -25,6 +25,8 @@ title: Curriculum Vitae
       <p class"cv-info">Hey, my name is Johannes Berdin. I am thrilled to build awesome products which help people on their daily lives<br/>
         As a highly creative thinker and an organized do-er, I love to battle the transformation of high-tech ideas into brilliant user experiences and the challenge of working in a dynamic and progressive environment.</p>
 
+        <hr class="cv-hr">
+
       <h2>Education</h2>
 
       <h3>Graduated Bachelor Science</h3>
@@ -38,12 +40,14 @@ title: Curriculum Vitae
         <a href="https://uni-saarland.de">Universität des Saarlandes</a><br/>
         <span class="cv-dates">2008 - 2013</span></p>
 
+        <hr class="cv-hr">
+
       <h2>Considerable</h2>
       <h3>Y Combinator</h3>
       <p><a href="https://ycombinator.com">YC</a> is the most famous incubator program in the world, backing companies like Dropbox, Airbnb, Coinbase, Stripe, Reddit, Heroku or Instacart. I had the chance to be part of the summer batch 2013 (YCS13) by co-founding the US startup MeasurePhone. We built a bluetooth-connected laser-distance meter for your smartphone. We did run the business from a beautiful house we rent in <a href="https://www.google.de/maps/place/Menlo+Park,+CA,+USA">Menlo Park</a> for almost a year before I went back to Germany to finish school.<br/><span class="cv-dates">2013</span></p>
 
       <h3>Applicant Wirtschaftsjunioren</h3>
-      <p><a href="http://wjd-saarland.de">Wirtschaftsjunioren</a> are a voluntary association of young executives and entrepreneurs from all areas of the Saarland economy shaping the future of the region. I like it to help others, share ideas and experiences and the Wirtschaftsjunioren are a great network for that.<br/>
+      <p><a href="http://wjd-saarland.de">Wirtschaftsjunioren</a> are a voluntary association of young executives and entrepreneurs from all areas of the Saarland economy shaping the future of the region. I like it to help others, share ideas and experiences and the Wirtschaftsjunioren provide a excellent platform for that.<br/>
         <span class="cv-dates">2017 - present</span></p>
     </div>
     <div class="col-md-6">
@@ -56,6 +60,8 @@ title: Curriculum Vitae
 
     <h3>Birthday</h3>
     <p class="cv-info">10/29/1988</p>
+
+    <hr class="cv-hr">
 
       <h2>Experience</h2>
       <h3>Project Manager, Software Engineer / Eyeled</h3>
@@ -74,7 +80,7 @@ title: Curriculum Vitae
   <div class="row">
     <div class="col-md-12 text-center">
       <hr>
-      <p>Johannes Berdin / Am Schäferberg 4 / 66740 Saarlouis / Germany / ich@johannesberdin.de</p>
+      <p>Johannes Berdin / Am Schäferberg 4 / 66740 Saarlouis / Germany / <a href="mailto:ich@johannesberdin.de">ich@johannesberdin.de</a></p>
     </div>
   </div>
 @endsection

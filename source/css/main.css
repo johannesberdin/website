@@ -155,4 +155,10 @@ hr {
   font-style: italic;
 }
 
+.cv-hr {
+  border-width: 1px;
+  border-style: dashed;
+  border-color: #E8E8EE;
+}
+
 /*# sourceMappingURL=main.css.map */

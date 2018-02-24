@@ -153,3 +153,9 @@ padding: 0.5em 0.6em;
   color: $color-pink;
   font-style: italic;
 }
+
+.cv-hr {
+  border-width: 1px;
+  border-style: dashed;
+  border-color: $color-light;
+}
