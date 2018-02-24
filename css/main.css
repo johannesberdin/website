@@ -161,4 +161,53 @@ hr {
   border-color: #E8E8EE;
 }
 
+.btn-print {
+  border: 1px solid #F50066;
+  color: #F50066;
+}
+
+.btn-print:hover {
+  background-color: #F50066;
+  color: #FFFFFF;
+}
+
+.btn-print:active,
+.btn-print:focus,
+.btn-print.active {
+  background-image: none;
+  outline: 0;
+  box-shadow: none;
+  outline: none !important;
+}
+
+@media print {
+  body {
+    font-size: 16px;
+    line-height: 1.6;
+    padding: 20px 0;
+  }
+  h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  h3 {
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .cv-photo {
+    width: 100px;
+    border-radius: 100px;
+    margin-bottom: 20px;
+  }
+  .btn-print {
+    display: none;
+    visibility: hidden;
+  }
+}
+
 /*# sourceMappingURL=main.css.map */
