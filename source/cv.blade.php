@@ -79,6 +79,7 @@ title: Curriculum Vitae
   </div>
   <div class="row">
     <div class="col-md-12 text-center">
+      <a href="javascript: window.print();" class="btn btn-sm btn-print">Printable version</a>
       <hr>
       <p>Johannes Berdin / Am Schäferberg 4 / 66740 Saarlouis / Germany / <a href="mailto:ich@johannesberdin.de">ich@johannesberdin.de</a></p>
     </div>
