@@ -31,10 +31,10 @@ In this article I want to share some of my New Year's resolutions. Some are just
 Two years ago my brother gave me the papers for a white [Volkswagen Golf II](#fn) because he upgraded to a larger car and the Golf started to get some aches. It is not diagnosed but it feels like something's wrong with the gear. Apart from that there are some beauty mistakes in the interior which should be fixed too.
 But it would be a very simple project to just tow the car into the next garage and get it fixed. I would like to have some specials for that almost 30 year old car. These are my current thoughts:
 
-* lock/unlock doors via smartphone
-* LTE internet connection
-* geo-locate my car and store the GPS tracks
-* [clever](#fn) power supply
+-   lock/unlock doors via smartphone
+-   LTE internet connection
+-   geo-locate my car and store the GPS tracks
+-   [clever](#fn) power supply
 
 Let's see how the project evolves I'll keep you updated but if you know a good mechanic around the area of Saarlouis please drop me a line!
 
@@ -78,7 +78,6 @@ We already checked the regulations and are currently working on the bottle desig
 I do love books. I really love books but of unknown reasons I did not read one book in the last years. Actually I did a quick check on Amazon for the latest book purchase but those data was out of record. At Christmas day I bought ["A Brief History of Humankind" by Yuval Noah Harari](#fn) via the Kindle iPad app. I sucked the chapters and also highlighted some brilliant explanations but then I noticed that you are not able to publicly share those quotes via web nevermind the books you are currently reading.
 Flying over the Google search results I did not find a service for that but it does not seems that hard to use an API or crawl the data from my Amazon profile so let's see what I can do here.
 Btw. I would be very happy to get some book recommendations for non-fiction books.
-
 
 So these are my projects for this year. What are yours? Hope you enjoyed reading and stay tuned!
 You also can check out the source of the entire website <a href="https://github.com/johannesberdin/website/">here</a>.
