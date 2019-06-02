@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'baseUrl' => 'https://johannesberdin.de',
+    'baseUrl' => 'https://www.johannesberdin.de',
     'production' => true
 ];
